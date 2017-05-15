@@ -50,3 +50,4 @@ favicon_img_path: "imgs/favicon.ico"
 markdown: kramdown
 permalink: pretty
 gems: [jekyll-paginate]
+theme: jekyll-theme-cayman
